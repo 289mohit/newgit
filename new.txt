@@ -3,4 +3,5 @@ another line added
 third line
 forth line
 fifth line
+line 6
 
